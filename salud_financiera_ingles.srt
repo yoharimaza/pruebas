@@ -1,75 +1,75 @@
 1
-00:00:03,840 -> 00:00:05,632
+00:00:03,840 --> 00:00:05,632
 You know what financial health is
 
 2
-00:00:05,888 -> 00:00:08,960
+00:00:05,888 --> 00:00:08,960
 It is a set of indicators on How to manage your financial life
 
 3
-00:00:09,472 -> 00:00:13,568
+00:00:09,472 --> 00:00:13,568
 How much your daily behaviors help you to be prepared for an economic shock
 
 4
-00:00:13,824 -> 00:00:18,944
+00:00:13,824 --> 00:00:18,944
 And what is your financial capacity to achieve your personal goals and in general Live your life
 
 5
-00:00:19,456 -> 00:00:24,832
+00:00:19,456 --> 00:00:24,832
 According to the financial health network in the United States, financial health is made up of four pillars
 
 6
-00:00:25,344 -> 00:00:26,112
+00:00:25,344 --> 00:00:26,112
 Spending
 
 7
-00:00:26,368 -> 00:00:28,672
+00:00:26,368 --> 00:00:28,672
 Savings where investment is also talked about
 
 8
-00:00:28,928 -> 00:00:30,208
+00:00:28,928 --> 00:00:30,208
 Planning and debt
 
 9
-00:00:30,976 -> 00:00:33,792
+00:00:30,976 --> 00:00:33,792
 At this time we will focus on the pillar of now
 
 10
-00:00:34,048 -> 00:00:35,840
+00:00:34,048 --> 00:00:35,840
 Let's see what the cell phone consists of
 
 eleven
-00:00:36,352 -> 00:00:37,376
+00:00:36,352 --> 00:00:37,376
 Point number one
 
 12
-00:00:37,632 -> 00:00:42,240
+00:00:37,632 --> 00:00:42,240
 You have good saving habits that allow you to be prepared to face its expiration
 
 13
-00:00:42,752 -> 00:00:43,776
+00:00:42,752 --> 00:00:43,776
 Point number two
 
 14
-00:00:44,032 -> 00:00:48,896
+00:00:44,032 --> 00:00:48,896
 You are saving for the short term, that is, you have enough liquid savings, reports emergency
 
 15
-00:00:49,664 -> 00:00:50,432
+00:00:49,664 --> 00:00:50,432
 Point number 3
 
 16
-00:00:50,944 -> 00:00:53,760
+00:00:50,944 --> 00:00:53,760
 You have enough long-term savings or assets
 
 17
-00:00:55,040 -> 00:00:59,392
+00:00:55,040 --> 00:00:59,392
 At this time you do not meet the 23 points of this Pillar do not worry
 
 18
-00:00:59,648 -> 00:01:00,672
+00:00:59,648 --> 00:01:00,672
 That's what we're here for
 
 19
-00:01:00,928 -> 00:01:07,072
+00:01:00,928 --> 00:01:07,072
 I assure you that it will not be a tedious path, we work a lot on this platform to make it simple and fun for you now.
