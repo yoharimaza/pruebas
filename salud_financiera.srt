@@ -1,75 +1,79 @@
 1
 00:00:03,840 --> 00:00:05,632
-Sabes qué es la salud financiera
+¿Sabes qué es la Salud Financiera?
 
 2
 00:00:05,888 --> 00:00:08,960
-Es un conjunto de indicadores sobre Cómo manejar tu vida financiera
+Es un conjunto de indicadores sobre cómo manejas tu vida financiera,
 
 3
 00:00:09,472 --> 00:00:13,568
-Qué tanto tus comportamientos diarios te ayudan a estar preparado ante un shock económico
+qué tanto tus comportamientos diarios te ayudan a estar preparado ante un shock económico,
 
 4
 00:00:13,824 --> 00:00:18,944
-Y cuál es tu capacidad financiera para lograr tus objetivos personales y en general Vivir tu vida
+y cuál es tu capacidad financiera para lograr tus objetivos personales y en general, vivir tu vida.
 
 5
 00:00:19,456 --> 00:00:24,832
-De acuerdo a la red de salud financiera en Estados Unidos la salud financiera está conformada por cuatro pilares
+De acuerdo a la red de salud financiera en Estados Unidos, la salud financiera está conformada por cuatro pilares:
 
 6
 00:00:25,344 --> 00:00:26,112
-Gasto
+Gasto.
 
 7
 00:00:26,368 --> 00:00:28,672
-Ahorro en donde también se habla de inversión
+Ahorro, en donde también se habla de inversión.
 
 8
 00:00:28,928 --> 00:00:30,208
-Planeación y deuda
+Planeación y deuda.
 
 9
 00:00:30,976 --> 00:00:33,792
-En este momento nos enfocaremos en el pilar de ahora
+En este momento nos enfocaremos en el pilar de Ahorro
 
 10
 00:00:34,048 --> 00:00:35,840
-Veamos En qué consiste el celular
+Veamos en qué consiste este pilar,
 
 11
 00:00:36,352 --> 00:00:37,376
-Punto número uno
+1.
 
 12
 00:00:37,632 --> 00:00:42,240
-Tienes buenos hábitos de ahorro que te permiten estar preparada para enfrentar su expiración
+Tienes buenos hábitos de ahorro que te permiten estar preparada para enfrentar shocks financieros.
 
 13
 00:00:42,752 --> 00:00:43,776
-Punto número dos
+2.
 
 14
 00:00:44,032 --> 00:00:48,896
-Estás ahorrando para el corto plazo es decir tiene suficientes ahorros líquidos informa emergencia
+Estás ahorrando para el corto plazo, es decir, tienes suficientes ahorros líquidos y un fondo de emergencia.
 
 15
 00:00:49,664 --> 00:00:50,432
-Punto número 3
+3.
 
 16
 00:00:50,944 --> 00:00:53,760
-Tiene suficientes ahorros o activos a largo plazo
+Tienes suficientes ahorros o activos a largo plazo.
 
 17
 00:00:55,040 --> 00:00:59,392
-En este momento no cumples los 23 puntos de este Pilar no te preocupes
+Sí en este momento no cumples con los 3 puntos de este pilar, no te preocupes,
 
 18
 00:00:59,648 --> 00:01:00,672
-Para eso estamos aquí
+¡Para eso estamos aquí!
 
 19
 00:01:00,928 --> 00:01:07,072
-Te aseguro que no será un camino tedioso trabajamos mucho en esta plataforma para hacerlo sencillo y divertido para ti ahora sí
+Te aseguro que no será un camino tedioso ¡Trabajamos mucho en esta plataforma para hacerlo sencillo y divertido para ti!
+
+20
+00:01:07,072 --> 00:01:08,000
+Ahora si, vamos a comenzar con este pilar.
